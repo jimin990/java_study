@@ -1,1 +1,1 @@
-# java_study
+# JAVA를 공부한 내용입니다.
